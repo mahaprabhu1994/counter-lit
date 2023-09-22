@@ -1,6 +1,6 @@
 {
   "name": "@wcd/mahaprabhu1994.litelementts-lmu3r2kn",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve PmS91Q5rLE90HoT5HFyZ --open"
   }
